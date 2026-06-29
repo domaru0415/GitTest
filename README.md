@@ -30,4 +30,7 @@
 
     ![Unity Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSKFOAPqx9CmZusMMDcsLjcraLic1YGE2cw&s)
 
-    <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSKFOAPqx9CmZusMMDcsLjcraLic1YGE2cw&s" width="250" height="100" alt="Unity Logo">
+    <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSKFOAPqx9CmZusMMDcsLjcraLic1YGE2cw&s" width="250" height="100" alt="Unity Logo"/>
+
+    줄 바꿈을 하기 위해서는  
+    빈칸 두개를 넣으면 된다
